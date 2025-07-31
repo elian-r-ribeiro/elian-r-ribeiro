@@ -15,11 +15,7 @@
 
 ###
 
-<p align="left">About me:<br><br>My name is Elian (you can call me Ely), I'm from Brazil, PR.<br><br>- I'm currently a front-end developer, but I intend to change to back-end as soon as I can;<br>- I’m currently in college, studying Software Engineering;<br>- I have a few interesting projects in my repositories, you can check it out, if you want;<br>- In my free time, I usually play videogames.</p>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
@@ -32,6 +28,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
+
+###
+
+<p align="left">About me:<br><br>My name is Elian (you can call me Ely), I'm from Brazil, PR.<br><br>- I'm currently a front-end developer, but I intend to change to back-end as soon as I can;<br>- I’m currently in college, studying Software Engineering;<br>- I have a few interesting projects in my repositories, you can check it out, if you want;<br>- In my free time, I usually play videogames.</p>
 
 ###
 
