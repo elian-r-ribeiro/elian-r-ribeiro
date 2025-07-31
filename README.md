@@ -43,8 +43,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Elian Rodrigues Ribeiro">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Elian%20Rodrigues%20Ribeiro&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31cden2aqyg5zveow3ojozib35ba">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cden2aqyg5zveow3ojozib35ba&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
