@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://metagalaxia.com.br/wp-content/uploads/2022/10/Lucyna-Kushinada-1.webp"  />
+  <img height="200" src="https://metagalaxia.com.br/wp-content/uploads/2022/10/Lucyna-Kushinada-1.webp](https://i.pinimg.com/originals/cf/66/4a/cf664a5ceabc59be8ffb86f25f9ac09f.gif"  />
 </div>
 
 ###
