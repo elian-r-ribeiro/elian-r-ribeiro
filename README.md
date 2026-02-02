@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">About me:<br><br>My name is Elian (you can call me Ely), I'm from Brazil, PR.<br><br>- I'm currently a front-end developer, but I intend to change to back-end as soon as I can;<br>- I’m currently in college, studying Software Engineering;<br>- I have a few interesting projects in my repositories, you can check it out, if you want;<br>- In my free time, I usually play videogames.</p>
+<p align="left">About me:<br><br>My name is Elian (you can call me Ely), I'm from Brazil, PR.<br>- B.S. in Software Engineering – Uni Guairacá University <br>- ;<br>I'm currently unemployed, but I intend to work as back-end developer or Cybersecurity as soon as I can;<br>- I have a few interesting projects in my repositories, you can check it out, if you want;<br>- In my free time, I usually play videogames.</p>
 
 ###
 
