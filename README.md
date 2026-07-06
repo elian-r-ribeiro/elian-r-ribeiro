@@ -28,18 +28,3 @@
 <p align="left">About me:<br><br>My name is Elian (you can call me Ely), I'm from Brazil, PR.<br>- B.S. in Software Engineering – Uni Guairacá University;<br>- I'm currently unemployed, but I intend to work as back-end developer or Cybersecurity as soon as I can;<br>- I have a few interesting projects in my repositories, you can check it out, if you want;<br>- In my free time, I usually play videogames.</p>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elian-r-ribeiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elian-r-ribeiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31cden2aqyg5zveow3ojozib35ba">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cden2aqyg5zveow3ojozib35ba&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
